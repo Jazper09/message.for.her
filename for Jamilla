@@ -1,0 +1,41 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+void displayLoveLetter()
+{
+    cout << "\n----------------------------------------\n";
+    cout << " Dear Jami, \n";
+    cout << "\n";
+    cout << " Alam kong natatakot ka. Natatakot ka \n";
+    cout << " na masaktan, natatakot ka muling magtiwala,\n";
+    cout << " natatakot ka na baka maulit ang mga sugat \n";
+    cout << " ng iyong nakaraan. Ngunit nais kong \n";
+    cout << " iparating sa iyo na handa akong pagalingin ka.\n";
+    cout << "\n";
+    cout << " Madalas, ang takot ang hadlang sa \n";
+    cout << " pagmamahalan, at ramdam ko iyon sa mga \n";
+    cout << " tahimik mong pag-iwas at mga saglit na \n";
+    cout << " pangungusap. Sana, pahintulutan mo akong \n";
+    cout << " patunayan sa iyo na hindi lahat ng pag-ibig \n";
+    cout << " ay may kasamang sakit.\n";
+    cout << "\n";
+    cout << " Walang pilitan. Alam ko, hindi mo pa kaya -\n";
+    cout << " at naiintindihan ko. Pero gusto ko na \n";
+    cout << " makita mo na pwede ako maging dahilan \n";
+    cout << " nang pagbukas muli ng iyong puso.\n";
+    cout << " Kahit na paunti-unti, sana, pahintulutan \n";
+    cout << " mo sana ako.\n";
+    cout << "\n";
+    cout << " Sincerely,\n";
+    cout << " Jazper \n";
+    cout << "----------------------------------------\n";
+}
+
+int main()
+{
+    cout << "\n A Simple Love Letter \n";
+    displayLoveLetter();
+    return 0;
+}
